@@ -1,0 +1,25 @@
+/* CSS copied hai pura. date:14/01/2024 */
+
+.container{
+    height: 100vh;
+}
+.target {
+    display: flex;
+    justify-content: center;
+}
+
+.target>p {
+    font-size: 1rem;
+    padding: 1rem;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.target>p>span {
+    display: block;
+    font-size: 3rem;
+}
+
+.hh{
+text-align: center;
+}

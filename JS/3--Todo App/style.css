@@ -1,0 +1,56 @@
+
+
+h1 {
+    text-align: center;
+}
+
+.entry {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    padding: 10px;
+}
+
+#i1,
+#i2,
+#b1 {
+    margin: 10px;
+    padding: 10px;
+}
+
+.tasks {
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tasks>div {
+    width: 93%;
+    margin: 10px;
+    padding: 10px;
+    background-color:antiquewhite;
+    display: flex;
+}
+
+.data{
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.data p{
+    margin: 1px solid black;
+    margin-left: 10px;
+}
+
+#p1,#p2{
+    
+    flex-direction: column;
+}
+
+#b2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

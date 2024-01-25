@@ -1,0 +1,35 @@
+#h{
+    border: 2px solid black;
+}
+
+#i1{
+    border: 1px solid red;
+    margin-left: 5px;
+    margin-top: 10px;
+    width: 25%;
+    height: 50px;
+}
+
+#b1{
+    border: 1px solid red;
+    width: 5%;
+    height: 50px;
+}
+
+.container{
+    border: 2px solid black;
+    min-height: 100vh;
+}
+
+.posters{
+    margin: 5px;
+    border: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.poster{
+    border: 1px solid black;
+    margin: 10px;
+    width: 23%;
+}
